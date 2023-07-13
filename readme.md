@@ -1,0 +1,4 @@
+- This website is build on Vite React
+- For styling I used Tailwind css and Daisy UI
+- The website is hosted on netlify
+- Live link: https://interior-consultant7.netlify.app/
