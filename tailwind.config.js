@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         Montserrat: ["Montserrat", "sans-serif"],
         Crimson: ["Crimson Pro", "sans-serif"],
+        Lora: ["Lora", "sans-serif"],
       }, //end of fontFamily
     },
   },
