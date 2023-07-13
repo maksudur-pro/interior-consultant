@@ -1,7 +1,7 @@
 import { FaLongArrowAltRight } from "react-icons/fa";
 const Hero = () => {
   return (
-    <div className="flex-row lg:flex justify-between items-center p-4 lg:p-0">
+    <div className="flex-row md:flex lg:flex justify-between items-center p-4 lg:p-0">
       <div>
         <h1 className="font-Lora text-4xl lg:text-5xl font-medium text-white">
           Modern interior
